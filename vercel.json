@@ -1,6 +1,6 @@
 {
     "rewrite":[
-        {"source":"/(.*)", "Destination":"/"},
+        {"source":"/", "Destination":"/"},
         {"source":"/cart", "Destination":"/cart.jsx"}
     ]
 }
