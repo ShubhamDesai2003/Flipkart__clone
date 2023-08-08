@@ -10,7 +10,7 @@ function App() {
       path:"/",
       element:<Home/>
      },{
-      path:"/cart",
+      path:"https://flipkart-clone-psi.vercel.app/cart",
       element:<Cart/>
      },
 ])
