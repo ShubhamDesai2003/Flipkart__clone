@@ -1,0 +1,7 @@
+{
+    "rewrite":[
+        {"source":"/(.*)", "Destination":"/"},
+        {"source":"/cart", "Destination":"/cart.jsx"}
+    ]
+}
+
