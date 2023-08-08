@@ -1,7 +1,5 @@
-{
-    "rewrite":[
-        {"source":"/", "Destination":"/"},
-        {"source":"/cart", "Destination":"/cart.jsx"}
-    ]
+{   
+        "redirects": [{ "source": "/cart", "destination": "/cart.jsx" }]
+    
 }
 
