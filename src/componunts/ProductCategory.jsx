@@ -1,8 +1,34 @@
 const ProductCategory = () => {
   return (
     <>
+      <style>{`
+       @media (min-width: 412px){
 
-      <div className=" p-2 flex justify-center w-full">
+      }
+      
+      @media(min-width:576px) {
+
+      }
+      
+      @media(min-width:768px){
+
+      }
+      
+        @media(min-width:992px){
+      
+        } 
+      
+        @media(min-width:1200px){
+ 
+        }
+      
+       @media(min-width:1630px){
+
+        }
+      `}
+      </style>
+
+      <div className=" flex justify-center w-full">
         <div>
           <a href="#">
             <img
